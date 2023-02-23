@@ -1,0 +1,14 @@
+.about-image{
+border: none;
+border-radius: 100%;
+height:20rem;
+}
+
+.section-image{
+    height: max-content;
+}
+
+.img-djc{
+    width:100%;
+    height:auto;
+}
