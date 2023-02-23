@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('DJ_SECRET')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['portfolio-jgvt.onrender.com']
 
 
 # Application definition
